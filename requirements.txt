@@ -3,4 +3,3 @@ streamlit
 streamlit-option-menu
 folium
 matplotlib
-matplotlib.pyplot
